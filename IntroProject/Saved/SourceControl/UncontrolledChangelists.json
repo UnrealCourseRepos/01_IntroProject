@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Martin/UnrealProjects/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/H9/I54AO08DBBR8WRH1TLH18C.uasset",
+				"C:/Users/Martin/UnrealProjects/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/KU/WW8709FDBNVMYH1Q0A5Q4O.uasset",
+				"C:/Users/Martin/UnrealProjects/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TP/STJBRWRUG9TXB0UFBGKZBW.uasset",
+				"C:/Users/Martin/UnrealProjects/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BC/3KRAIBSCBRJ6WPK07CRM68.uasset",
+				"C:/Users/Martin/UnrealProjects/UnrealCourse/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/L1/TPEI9H8KYS4Y134ZUUKH9Z.uasset"
+			]
+		}
+	]
+}
